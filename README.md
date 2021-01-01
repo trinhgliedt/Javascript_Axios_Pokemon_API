@@ -1,3 +1,10 @@
+<h1>A function to call 807 Pokemons from Pokemon API</h1>
+
+- [x] Create a button to fetch the Pokemon
+- [x] Output the names of all 807 Pokemon
+
+![](main_view.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,9 +74,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-<h1>A function to call 807 Pokemons from Pokemon API</h1>
 
-- [x] Create a button to fetch the Pokemon
-- [x] Output the names of all 807 Pokemon
-
-![](main_view.png)
