@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+<h1>A function to call 807 Pokemons from Pokemon API</h1>
+
+- [x] Create a button to fetch the Pokemon
+- [x] Output the names of all 807 Pokemon
+
+![](main_view.png)
